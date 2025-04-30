@@ -12,7 +12,7 @@ public class Main {
         FindAverage.execute(doubleList);
         SortStringsAlphabetically.execute(stringList);
         SumEvenNumbers.execute(intList);
-        CalculateFactorial.execute(5);
+        CalculateFactorial.execute(555);
         MultiplyAndSum.execute(intList);
         SquareNumbers.execute(intList);
         SortByLength.execute(stringList);
